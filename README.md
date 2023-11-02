@@ -1,5 +1,7 @@
 # Submission-System
-The National Honor Society and National Math Honor Society form submission system's official repo.
+The National Honor Society and National Math Honor Society form submission system's official repo. Dows not include admin software for obvious reasons.
+
+Download the full software here: https://krishpyddev.com/software-download/
 
 Im sorry for no comments, I promise I will add them if someone ever wants to take a look.
 
