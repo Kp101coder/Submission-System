@@ -1,0 +1,10 @@
+First time setup-
+1) Run the MAO Software Setup
+2) Wait for it to fully load DONT KEEP OPENING IT
+3) Go through the steps
+4) ADD A SHORTCUT YOU WILL WANT IT
+5) Wait for it to finish and then let it run
+3) Sign in to google account
+4) Be Patient, information will load (Server online between 8am and 10pm)
+5) Log in!
+6) If you are feeling funny, go to notepad and create a new file called funnymode.txt and type "HeHeHawHaw". Save it anywhere. Run the program and submit something :)
